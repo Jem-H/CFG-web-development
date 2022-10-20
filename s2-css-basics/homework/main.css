@@ -1,0 +1,54 @@
+nav {
+    background-color: aquamarine;
+}
+
+header {
+    height: 200px;
+    width: auto;
+    background-color: black;
+    padding: 50px;
+}
+
+h1 {
+    color: white;    
+    text-align: center;
+    
+}
+
+p {
+    color: white;
+    width: 400px;
+    margin: auto;
+    text-align: center;    
+}
+
+footer {
+    height: 50px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 50px;
+    margin: auto;
+}
+
+/*https://www.w3schools.com/css/css_align.asp*/
+
+
+.left {
+    margin-left: 150px;
+    padding: 20px;
+    width: 300px;    
+}
+
+.center{ 
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    width: 300px;
+}
+
+.right {
+    /*margin-right: 150px;*/
+    padding: 20px;
+    width: 300px;    
+}
