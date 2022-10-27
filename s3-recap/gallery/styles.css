@@ -1,0 +1,19 @@
+div.gallery {
+    border: 1px solid #ccc;
+}
+
+/*Whenever we hover over a div attribute with class gallery,
+ the border will change to a different colour*/
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
