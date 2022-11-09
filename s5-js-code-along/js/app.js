@@ -8,6 +8,17 @@ console.log(myName);
 
 
 // Exercise: FUNCTIONS
+function hello() {
+    console.log(`Hi`);
+}
+// Note: if function call is commented out, nothing is output
+hello();
+
+// With argument
+function greet(name) {
+    console.log(`Hi ${name}`);
+}
+greet(`Jemima`);
 
 // Exercise: ARGUMENTS
 
