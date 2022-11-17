@@ -30,9 +30,9 @@ function sqrt(number1) {
 
 // User dialog
 
-number1 = prompt(`Please enter the first number`);
+let number1 = prompt(`Please enter the first number`);
 
-key = prompt(
+let key = prompt(
     `Please press the following keys for the desired function:
     Sum a, Subtract b, Divide c, Multiply d, Power e, Square root f`);
 
